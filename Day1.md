@@ -32,6 +32,7 @@ By understanding these values and data types, you gain the ability to work with 
 Operators in JavaScript serve various purposes and can significantly impact values. When working with arithmetic operators, JavaScript respects the order of operations, allowing for the use of parentheses to group expressions effectively.
 
 ## Coding Examples
+```javascript
 // Example 1: Determining value types using typeof
 let value1 = 15;
 let value2 = "15";
@@ -54,3 +55,4 @@ console.log(multiplication); // Output: 16
 console.log(division); // Output: 4
 console.log(y == s); // true because it just compares the value, not the type 
 console.log(y === s); // false because it compares the value and the type of the argument 
+```
