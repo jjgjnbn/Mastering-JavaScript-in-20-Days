@@ -1,4 +1,4 @@
-# Day1 :
+# Day 1: Introduction to JavaScript, DOM, Values & Data Types, and Operators
 ## introduction :
 To sum up, JavaScript stands as a formidable and adaptable programming language, empowering developers to fashion web pages that are both interactive and dynamic.
 ## DOM :
