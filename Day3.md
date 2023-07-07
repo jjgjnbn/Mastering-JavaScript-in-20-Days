@@ -66,12 +66,12 @@ var variables:
 
 - Function-scoped: var variables are accessible throughout the entire function in which they are declared or at the global level.
 - Hoisting: var variables are hoisted to the top of their function or global scope, allowing them to be accessed and assigned values before they are declared. However, their initial value is undefined until assigned.
-Redeclaration: var variables can be redeclared multiple times within the same scope without throwing an error. Each redeclaration simply overwrites the previous value.
+- Redeclaration: var variables can be redeclared multiple times within the same scope without throwing an error. Each redeclaration simply overwrites the previous value.
 
 let variables:
 
-Block-scoped: let variables are limited to the block of code (within curly braces) in which they are defined, such as an if statement or a loop.
-Hoisting: let variables are hoisted to the top of their block scope but are not initialized. They are in a "temporal dead zone" until they are declared, and accessing them before declaration results in a ReferenceError.
-Redeclaration: let variables cannot be redeclared within the same block scope. Attempting to do so will throw a SyntaxError.
+- Block-scoped: let variables are limited to the block of code (within curly braces) in which they are defined, such as an if statement or a loop.
+- Hoisting: let variables are hoisted to the top of their block scope but are not initialized. They are in a "temporal dead zone" until they are declared, and accessing them before declaration results in a ReferenceError.
+- Redeclaration: let variables cannot be redeclared within the same block scope. Attempting to do so will throw a SyntaxError.
 
 
