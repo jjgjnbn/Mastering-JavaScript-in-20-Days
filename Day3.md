@@ -64,8 +64,8 @@ Variables declared with var inside a block are not limited to that block's scope
 ## Difference Between var and let:
 var variables:
 
-Function-scoped: var variables are accessible throughout the entire function in which they are declared or at the global level.
-Hoisting: var variables are hoisted to the top of their function or global scope, allowing them to be accessed and assigned values before they are declared. However, their initial value is undefined until assigned.
+- Function-scoped: var variables are accessible throughout the entire function in which they are declared or at the global level.
+- Hoisting: var variables are hoisted to the top of their function or global scope, allowing them to be accessed and assigned values before they are declared. However, their initial value is undefined until assigned.
 Redeclaration: var variables can be redeclared multiple times within the same scope without throwing an error. Each redeclaration simply overwrites the previous value.
 
 let variables:
