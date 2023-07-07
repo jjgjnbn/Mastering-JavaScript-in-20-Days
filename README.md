@@ -16,8 +16,9 @@ In this challenge, you will enhance your JavaScript skills and knowledge. Each d
 
 #### Coding Challenges in Day 1
  - [First Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)
- - [Second Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division)
-
+- [Second Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator)
+- [Third Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string)
+- [Forth Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string)
 ## Daily Learning Process
 1. Each day, you will watch 90 minutes of the assigned courses listed above.
 2. Solve all the JavaScript coding challenges that will be provided by the GSG team.
@@ -34,8 +35,10 @@ In this challenge, you will enhance your JavaScript skills and knowledge. Each d
 - Celebrate your achievements and reflect on your growth throughout the challenge.
 
 ## Folder Structure
--  [**Day 1**](https://github.com/suzanayesh2/Mastering-JavaScript-in-20-Days/blob/main/Day1.md)
--  [**Day 2**](https://github.com/suzanayesh2/Mastering-JavaScript-in-20-Days/blob/main/Day2.md)
--  [**Day 3**](https://github.com/suzanayesh2/Mastering-JavaScript-in-20-Days/blob/main/Day3.md)
+-  [**Day 1**](https://github.com/jjgjnbn/Mastering-JavaScript-in-20-Days/blob/main/Day1.md)
+-  [**Day 2**](https://github.com/jjgjnbn/Mastering-JavaScript-in-20-Days/blob/main/Day2.md)
+-  [**Day 3**](https://github.com/jjgjnbn/Mastering-JavaScript-in-20-Days/blob/main/Day3.md)
+-   [**Day 4**](https://github.com/jjgjnbn/Mastering-JavaScript-in-20-Days/blob/main/Day3.md)
+
 
 
